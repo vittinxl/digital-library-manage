@@ -21,4 +21,4 @@ Um sistema simples de gerenciamento de biblioteca digital feito em Python, desen
 Clone o repositório:
 ```bash
 git clone https://github.com/vittinxl/digital-library-manage.git
-cd digital-library-manager
+cd digital-library-manage
